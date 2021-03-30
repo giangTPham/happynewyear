@@ -692,8 +692,8 @@
     }
     
     .cake {
-        height: 50%;
-        background-image: url('https://media.giphy.com/media/12Eo7WogCAoj84/giphy.gif');
+        height: 100%;
+        background-image: url('https://media.giphy.com/media/f75HO49XwtmoGYPsI2/giphy.gif');
         background-size: contain;
         background-position: center;
         background-repeat: no-repeat;
